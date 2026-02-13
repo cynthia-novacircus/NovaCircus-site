@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "TM",
+      "icon": "fab fa-facebook",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}

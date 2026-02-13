@@ -1,0 +1,47 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Gallery"
+url = "/gallery"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[main]]
+weight = 5
+name = "Pages"
+
+[[main]]
+parent = "Pages"
+name = "Bio"
+url = "/about"
+
+[[main]]
+parent = "Pages"
+name = "NovaCircus Store |COMING SOON|"
+url = "/authors"
+
+# footer menu
+[[footer]]
+name = "NovaCircus Store"
+url = "/authors"
+weight = 1
+
+[[footer]]
+name = "Bio"
+url = "/about"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
